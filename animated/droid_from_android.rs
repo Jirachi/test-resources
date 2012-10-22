@@ -1,0 +1,21 @@
+{
+	"file":"animated/droid_from_android.png",
+	"type":"animated",
+	"anim":{
+		"columns":3,
+		"lines":10,
+		"width":56,
+		"height":80,
+		"reverse":true,
+		"speed":110,
+		"anims":[
+			{
+				"name":"idle",
+				"start_col":0,
+				"end_col":2,
+				"start_line":0,
+				"end_line":0
+			}
+		]
+	}
+}
